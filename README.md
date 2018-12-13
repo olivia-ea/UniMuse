@@ -5,10 +5,9 @@ UniMuse is a web application that consolidates music services in one, easy-to-us
 UniMuse, you can create and delete playlists, search for songs, and PLAY the songs without worrying
 about the source of your music.
 
-## Table of Contents :musical-note:
+## 🎶 Table of Contents 🎶
 
 * [Tech Stack](#tech-stack)
 * [Features](#features)
 * [Setup/Installation](#installation)
-* [To-Do](#future)
-* [License](#license)
+* [Version 2.0](#future)
